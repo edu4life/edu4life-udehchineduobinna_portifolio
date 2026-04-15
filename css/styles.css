@@ -333,6 +333,13 @@ button {
   font-size: 1.5rem;
 }
 
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: gray;
+  color: white;
+}
 
 
 
@@ -512,13 +519,7 @@ display: none;
 
 
 
-/* FOOTER *
-footer {
-  text-align: center;
-  padding: 20px;
-  background: #111;
-  color: white;
-}
+
 
 /* RESPONSIVE */
 /*@media(max-width: 768px) {
